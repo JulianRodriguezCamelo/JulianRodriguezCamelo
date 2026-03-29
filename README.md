@@ -1,118 +1,89 @@
-<!-- HERO SECTION -->
-<h1 align="center">⚡ Camilo | Software Engineer</h1>
+<div align="center">
 
-<h3 align="center">
-Backend Java Specialist • Cloud & DevOps Engineer • Cybersecurity Enthusiast
-</h3>
+# Camilo · Software Engineer
 
-<p align="center">
-Building secure, scalable and production-ready systems.
-</p>
+**Backend Java Specialist &nbsp;|&nbsp; Cloud & DevOps Engineer &nbsp;|&nbsp; Cybersecurity Enthusiast**
 
-<p align="center">
-  <a href="https://github.com/JulianRodriguezCamelo">
-    <img src="https://komarev.com/ghpvc/?username=JulianRodriguezCamelo&label=Profile%20Views&color=0A66C2&style=for-the-badge"/>
-  </a>
-</p>
+*Building secure, scalable and production-ready systems.*
+
+[![Profile Views](https://komarev.com/ghpvc/?username=JulianRodriguezCamelo&label=Profile%20Views&color=0A66C2&style=for-the-badge)](https://github.com/JulianRodriguezCamelo)
+
+</div>
 
 ---
 
-<!-- PROFESSIONAL SUMMARY -->
-<h2 align="center">🧠 Engineering Philosophy</h2>
+## Engineering Philosophy
 
-<p align="center">
-I design backend architectures focused on performance, security and scalability.<br/>
-Passionate about cloud infrastructure, defensive security and modern DevOps culture.
-</p>
+> I design backend architectures focused on performance, security and scalability.
+> Passionate about cloud infrastructure, defensive security and modern DevOps culture.
 
 ---
 
-<!-- CURRENT FOCUS -->
-<h2 align="center">🚀 Current Focus</h2>
+## Current Focus
 
-<p align="center">
-☁ Cloud Engineering • 🔐 Security Hardening • 🧩 Distributed Systems • ⚙ DevOps Automation
-</p>
+| ☁ Cloud Engineering | 🔐 Security Hardening | 🧩 Distributed Systems | ⚙ DevOps Automation |
+|:---:|:---:|:---:|:---:|
 
 ---
 
-<!-- TECH STACK -->
-<h2 align="center">⚙ Core Tech Stack</h2>
+## Tech Stack
 
-<h3 align="center">Backend Engineering</h3>
+**Backend Engineering**
 
-<p align="center">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JWT%20Security-black?style=for-the-badge"/>
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT%20Security-black?style=for-the-badge)
 
-<h3 align="center">Frontend & UI</h3>
+**Frontend & UI**
 
-<p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js"/>
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter"/>
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
 
-<h3 align="center">Databases</h3>
+**Databases**
 
-<p align="center">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver"/>
-</p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
 
-<h3 align="center">Cloud • DevOps • Infrastructure</h3>
+**Cloud · DevOps · Infrastructure**
 
-<p align="center">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud"/>
-</p>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud)
 
-<h3 align="center">Cybersecurity</h3>
+**Cybersecurity**
 
-<p align="center">
-<img src="https://img.shields.io/badge/System%20Hardening-1F2937?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vulnerability%20Analysis-7F1D1D?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SOC%20Operations-0F172A?style=for-the-badge"/>
-</p>
+![System Hardening](https://img.shields.io/badge/System%20Hardening-1F2937?style=for-the-badge)
+![Vulnerability Analysis](https://img.shields.io/badge/Vulnerability%20Analysis-7F1D1D?style=for-the-badge)
+![SOC Operations](https://img.shields.io/badge/SOC%20Operations-0F172A?style=for-the-badge)
 
 ---
 
-<!-- GITHUB METRICS -->
-<h2 align="center">📊 Engineering Activity</h2>
+## Engineering Activity
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JulianRodriguezCamelo&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianRodriguezCamelo&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JulianRodriguezCamelo&show_icons=true&theme=tokyonight&hide_border=true)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianRodriguezCamelo&layout=compact&theme=tokyonight&hide_border=true)
 
-<!-- PERSONAL EDGE -->
-<h2 align="center">🔥 Beyond Code</h2>
-
-<p align="center">
-🏃 Endurance mindset • 🏋 Discipline driven • 📚 Continuous learning • 🧠 Systems thinker
-</p>
+</div>
 
 ---
 
-<!-- CONTACT -->
-<h2 align="center">📫 Professional Contact</h2>
+## Beyond Code
 
-<p align="center">
-Open to collaboration • Cloud • Backend • Security Engineering
-</p>
+```
+🏃 Endurance mindset    🏋 Discipline driven    📚 Continuous learning    🧠 Systems thinker
+```
 
-<p align="center">
-📧 juliancamilorodriguezcamelo21@gmail.com<br/>
-🌎 Colombia
-</p>
+---
+
+## Let's Connect
+
+**Open to collaboration in Cloud · Backend · Security Engineering**
+
+📧 juliancamilorodriguezcamelo21@gmail.com &nbsp;·&nbsp; 🌎 Colombia
